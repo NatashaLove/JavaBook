@@ -20,4 +20,5 @@ and display all of their “behaviors” in the console.
 setters
 and getters
 create
-a function
+a function which will call your getter methods and print out it’s values to the
+console
